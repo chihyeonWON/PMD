@@ -1,0 +1,260 @@
+src/com/rubypaper/junit/MyStack.java:3:	CommentRequired: Class comments are required
+src/com/rubypaper/junit/MyStack.java:3:	CommentRequired: Class comments are required
+src/com/rubypaper/junit/MyStack.java:4:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/rubypaper/junit/MyStack.java:4:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/rubypaper/junit/MyStack.java:4:	CommentRequired: Field comments are required
+src/com/rubypaper/junit/MyStack.java:4:	CommentRequired: Field comments are required
+src/com/rubypaper/junit/MyStack.java:5:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/rubypaper/junit/MyStack.java:5:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/rubypaper/junit/MyStack.java:5:	CommentRequired: Field comments are required
+src/com/rubypaper/junit/MyStack.java:5:	CommentRequired: Field comments are required
+src/com/rubypaper/junit/MyStack.java:7:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyStack.java:7:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyStack.java:12:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyStack.java:12:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyStack.java:12:	MethodArgumentCouldBeFinal: Parameter 'num' is not assigned and could be declared final
+src/com/rubypaper/junit/MyStack.java:12:	MethodArgumentCouldBeFinal: Parameter 'num' is not assigned and could be declared final
+src/com/rubypaper/junit/MyStack.java:14:	ControlStatementBraces: This statement should have braces
+src/com/rubypaper/junit/MyStack.java:14:	ControlStatementBraces: This statement should have braces
+src/com/rubypaper/junit/MyStack.java:14:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/com/rubypaper/junit/MyStack.java:14:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/com/rubypaper/junit/MyStack.java:16:	ControlStatementBraces: This statement should have braces
+src/com/rubypaper/junit/MyStack.java:16:	ControlStatementBraces: This statement should have braces
+src/com/rubypaper/junit/MyStack.java:16:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/com/rubypaper/junit/MyStack.java:16:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/com/rubypaper/junit/MyStack.java:20:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyStack.java:20:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyStack.java:20:	MethodArgumentCouldBeFinal: Parameter 'obj' is not assigned and could be declared final
+src/com/rubypaper/junit/MyStack.java:20:	MethodArgumentCouldBeFinal: Parameter 'obj' is not assigned and could be declared final
+src/com/rubypaper/junit/MyStack.java:25:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyStack.java:25:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyStack.java:29:	MethodArgumentCouldBeFinal: Parameter 'min' is not assigned and could be declared final
+src/com/rubypaper/junit/MyStack.java:29:	MethodArgumentCouldBeFinal: Parameter 'min' is not assigned and could be declared final
+src/com/rubypaper/junit/MyStack.java:30:	LocalVariableCouldBeFinal: Local variable 'minCapacity' could be declared final
+src/com/rubypaper/junit/MyStack.java:30:	LocalVariableCouldBeFinal: Local variable 'minCapacity' could be declared final
+src/com/rubypaper/junit/MyStack.java:31:	LocalVariableCouldBeFinal: Local variable 'oldCapacity' could be declared final
+src/com/rubypaper/junit/MyStack.java:31:	LocalVariableCouldBeFinal: Local variable 'oldCapacity' could be declared final
+src/com/rubypaper/junit/MyStack.java:33:	LocalVariableCouldBeFinal: Local variable 'oldData' could be declared final
+src/com/rubypaper/junit/MyStack.java:33:	LocalVariableCouldBeFinal: Local variable 'oldData' could be declared final
+src/com/rubypaper/junit/MyStack.java:42:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyStack.java:42:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyStack.java:43:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/com/rubypaper/junit/MyStack.java:43:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/com/rubypaper/junit/MyStack.java:44:	ControlStatementBraces: This statement should have braces
+src/com/rubypaper/junit/MyStack.java:44:	ControlStatementBraces: This statement should have braces
+src/com/rubypaper/junit/MyStack.java:44:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/com/rubypaper/junit/MyStack.java:44:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/com/rubypaper/junit/MyStack.java:47:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyStack.java:47:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyStack.java:48:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/com/rubypaper/junit/MyStack.java:48:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/com/rubypaper/junit/MyStack.java:49:	ControlStatementBraces: This statement should have braces
+src/com/rubypaper/junit/MyStack.java:49:	ControlStatementBraces: This statement should have braces
+src/com/rubypaper/junit/MyStack.java:49:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/com/rubypaper/junit/MyStack.java:49:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/com/rubypaper/junit/MyStack.java:50:	LocalVariableCouldBeFinal: Local variable 'obj' could be declared final
+src/com/rubypaper/junit/MyStack.java:50:	LocalVariableCouldBeFinal: Local variable 'obj' could be declared final
+src/com/rubypaper/junit/MyStack.java:51:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/com/rubypaper/junit/MyStack.java:51:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/com/rubypaper/junit/MyStack.java:55:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyStack.java:55:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyVector.java:3:	CommentRequired: Class comments are required
+src/com/rubypaper/junit/MyVector.java:3:	CommentRequired: Class comments are required
+src/com/rubypaper/junit/MyVector.java:4:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/rubypaper/junit/MyVector.java:4:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/rubypaper/junit/MyVector.java:4:	CommentRequired: Field comments are required
+src/com/rubypaper/junit/MyVector.java:4:	CommentRequired: Field comments are required
+src/com/rubypaper/junit/MyVector.java:5:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/rubypaper/junit/MyVector.java:5:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/rubypaper/junit/MyVector.java:5:	CommentRequired: Field comments are required
+src/com/rubypaper/junit/MyVector.java:5:	CommentRequired: Field comments are required
+src/com/rubypaper/junit/MyVector.java:7:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyVector.java:7:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyVector.java:7:	MethodArgumentCouldBeFinal: Parameter 'intialCapacity' is not assigned and could be declared final
+src/com/rubypaper/junit/MyVector.java:7:	MethodArgumentCouldBeFinal: Parameter 'intialCapacity' is not assigned and could be declared final
+src/com/rubypaper/junit/MyVector.java:10:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyVector.java:10:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyVector.java:14:	AvoidSynchronizedAtMethodLevel: Use block level rather than method level synchronization
+src/com/rubypaper/junit/MyVector.java:14:	AvoidSynchronizedAtMethodLevel: Use block level rather than method level synchronization
+src/com/rubypaper/junit/MyVector.java:14:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyVector.java:14:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyVector.java:18:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyVector.java:18:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyVector.java:22:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyVector.java:22:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyVector.java:22:	MethodArgumentCouldBeFinal: Parameter 'elem' is not assigned and could be declared final
+src/com/rubypaper/junit/MyVector.java:22:	MethodArgumentCouldBeFinal: Parameter 'elem' is not assigned and could be declared final
+src/com/rubypaper/junit/MyVector.java:26:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyVector.java:26:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyVector.java:26:	MethodArgumentCouldBeFinal: Parameter 'elem' is not assigned and could be declared final
+src/com/rubypaper/junit/MyVector.java:26:	MethodArgumentCouldBeFinal: Parameter 'elem' is not assigned and could be declared final
+src/com/rubypaper/junit/MyVector.java:27:	ControlStatementBraces: This statement should have braces
+src/com/rubypaper/junit/MyVector.java:27:	ControlStatementBraces: This statement should have braces
+src/com/rubypaper/junit/MyVector.java:27:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/com/rubypaper/junit/MyVector.java:27:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/com/rubypaper/junit/MyVector.java:28:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/com/rubypaper/junit/MyVector.java:28:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/com/rubypaper/junit/MyVector.java:29:	ControlStatementBraces: This statement should have braces
+src/com/rubypaper/junit/MyVector.java:29:	ControlStatementBraces: This statement should have braces
+src/com/rubypaper/junit/MyVector.java:29:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/com/rubypaper/junit/MyVector.java:29:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/com/rubypaper/junit/MyVector.java:33:	AvoidSynchronizedAtMethodLevel: Use block level rather than method level synchronization
+src/com/rubypaper/junit/MyVector.java:33:	AvoidSynchronizedAtMethodLevel: Use block level rather than method level synchronization
+src/com/rubypaper/junit/MyVector.java:33:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyVector.java:33:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyVector.java:33:	MethodArgumentCouldBeFinal: Parameter 'index' is not assigned and could be declared final
+src/com/rubypaper/junit/MyVector.java:33:	MethodArgumentCouldBeFinal: Parameter 'index' is not assigned and could be declared final
+src/com/rubypaper/junit/MyVector.java:37:	AvoidSynchronizedAtMethodLevel: Use block level rather than method level synchronization
+src/com/rubypaper/junit/MyVector.java:37:	AvoidSynchronizedAtMethodLevel: Use block level rather than method level synchronization
+src/com/rubypaper/junit/MyVector.java:37:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyVector.java:37:	CommentRequired: Public method and constructor comments are required
+src/com/rubypaper/junit/MyVector.java:37:	MethodArgumentCouldBeFinal: Parameter 'obj' is not assigned and could be declared final
+src/com/rubypaper/junit/MyVector.java:37:	MethodArgumentCouldBeFinal: Parameter 'obj' is not assigned and could be declared final
+src/com/rubypaper/junit/MyVector.java:42:	MethodArgumentCouldBeFinal: Parameter 'minCapacity' is not assigned and could be declared final
+src/com/rubypaper/junit/MyVector.java:42:	MethodArgumentCouldBeFinal: Parameter 'minCapacity' is not assigned and could be declared final
+src/com/rubypaper/junit/MyVector.java:43:	LocalVariableCouldBeFinal: Local variable 'oldCapacity' could be declared final
+src/com/rubypaper/junit/MyVector.java:43:	LocalVariableCouldBeFinal: Local variable 'oldCapacity' could be declared final
+src/com/rubypaper/junit/MyVector.java:45:	LocalVariableCouldBeFinal: Local variable 'oldData' could be declared final
+src/com/rubypaper/junit/MyVector.java:45:	LocalVariableCouldBeFinal: Local variable 'oldData' could be declared final
+testSrc/com/rubypaper/junit/AllTests.java:9:	AtLeastOneConstructor: Each class should declare at least one constructor
+testSrc/com/rubypaper/junit/AllTests.java:9:	AtLeastOneConstructor: Each class should declare at least one constructor
+testSrc/com/rubypaper/junit/AllTests.java:9:	CommentRequired: Class comments are required
+testSrc/com/rubypaper/junit/AllTests.java:9:	CommentRequired: Class comments are required
+testSrc/com/rubypaper/junit/MyStackTest.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+testSrc/com/rubypaper/junit/MyStackTest.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+testSrc/com/rubypaper/junit/MyStackTest.java:8:	CommentRequired: Class comments are required
+testSrc/com/rubypaper/junit/MyStackTest.java:8:	CommentRequired: Class comments are required
+testSrc/com/rubypaper/junit/MyStackTest.java:9:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+testSrc/com/rubypaper/junit/MyStackTest.java:9:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+testSrc/com/rubypaper/junit/MyStackTest.java:9:	CommentRequired: Field comments are required
+testSrc/com/rubypaper/junit/MyStackTest.java:9:	CommentRequired: Field comments are required
+testSrc/com/rubypaper/junit/MyStackTest.java:9:	ShortVariable: Avoid variables with short names like s
+testSrc/com/rubypaper/junit/MyStackTest.java:9:	ShortVariable: Avoid variables with short names like s
+testSrc/com/rubypaper/junit/MyStackTest.java:12:	CommentRequired: Public method and constructor comments are required
+testSrc/com/rubypaper/junit/MyStackTest.java:12:	CommentRequired: Public method and constructor comments are required
+testSrc/com/rubypaper/junit/MyStackTest.java:17:	CommentRequired: Public method and constructor comments are required
+testSrc/com/rubypaper/junit/MyStackTest.java:17:	CommentRequired: Public method and constructor comments are required
+testSrc/com/rubypaper/junit/MyStackTest.java:18:	SystemPrintln: System.out.println is used
+testSrc/com/rubypaper/junit/MyStackTest.java:18:	SystemPrintln: System.out.println is used
+testSrc/com/rubypaper/junit/MyStackTest.java:21:	IntegerInstantiation: Avoid instantiating Integer objects. Call Integer.valueOf() instead.
+testSrc/com/rubypaper/junit/MyStackTest.java:21:	IntegerInstantiation: Avoid instantiating Integer objects. Call Integer.valueOf() instead.
+testSrc/com/rubypaper/junit/MyStackTest.java:22:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+testSrc/com/rubypaper/junit/MyStackTest.java:22:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+testSrc/com/rubypaper/junit/MyStackTest.java:26:	CommentRequired: Public method and constructor comments are required
+testSrc/com/rubypaper/junit/MyStackTest.java:26:	CommentRequired: Public method and constructor comments are required
+testSrc/com/rubypaper/junit/MyStackTest.java:26:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+testSrc/com/rubypaper/junit/MyStackTest.java:26:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+testSrc/com/rubypaper/junit/MyStackTest.java:27:	SystemPrintln: System.out.println is used
+testSrc/com/rubypaper/junit/MyStackTest.java:27:	SystemPrintln: System.out.println is used
+testSrc/com/rubypaper/junit/MyStackTest.java:28:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+testSrc/com/rubypaper/junit/MyStackTest.java:28:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+testSrc/com/rubypaper/junit/MyStackTest.java:30:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+testSrc/com/rubypaper/junit/MyStackTest.java:30:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+testSrc/com/rubypaper/junit/MyStackTest.java:30:	SimplifyBooleanAssertion: assertTrue(!expr) can be replaced by assertFalse(expr)
+testSrc/com/rubypaper/junit/MyStackTest.java:30:	SimplifyBooleanAssertion: assertTrue(!expr) can be replaced by assertFalse(expr)
+testSrc/com/rubypaper/junit/MyStackTest.java:34:	CommentRequired: Public method and constructor comments are required
+testSrc/com/rubypaper/junit/MyStackTest.java:34:	CommentRequired: Public method and constructor comments are required
+testSrc/com/rubypaper/junit/MyStackTest.java:34:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+testSrc/com/rubypaper/junit/MyStackTest.java:34:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+testSrc/com/rubypaper/junit/MyStackTest.java:35:	SystemPrintln: System.out.println is used
+testSrc/com/rubypaper/junit/MyStackTest.java:35:	SystemPrintln: System.out.println is used
+testSrc/com/rubypaper/junit/MyStackTest.java:38:	LocalVariableCouldBeFinal: Local variable 'str' could be declared final
+testSrc/com/rubypaper/junit/MyStackTest.java:38:	LocalVariableCouldBeFinal: Local variable 'str' could be declared final
+testSrc/com/rubypaper/junit/MyStackTest.java:39:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+testSrc/com/rubypaper/junit/MyStackTest.java:39:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+testSrc/com/rubypaper/junit/MyStackTest.java:40:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+testSrc/com/rubypaper/junit/MyStackTest.java:40:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+testSrc/com/rubypaper/junit/MyVectorTest.java:11:	AtLeastOneConstructor: Each class should declare at least one constructor
+testSrc/com/rubypaper/junit/MyVectorTest.java:11:	AtLeastOneConstructor: Each class should declare at least one constructor
+testSrc/com/rubypaper/junit/MyVectorTest.java:11:	CommentRequired: Class comments are required
+testSrc/com/rubypaper/junit/MyVectorTest.java:11:	CommentRequired: Class comments are required
+testSrc/com/rubypaper/junit/MyVectorTest.java:12:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+testSrc/com/rubypaper/junit/MyVectorTest.java:12:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+testSrc/com/rubypaper/junit/MyVectorTest.java:12:	CommentRequired: Field comments are required
+testSrc/com/rubypaper/junit/MyVectorTest.java:12:	CommentRequired: Field comments are required
+testSrc/com/rubypaper/junit/MyVectorTest.java:12:	ShortVariable: Avoid variables with short names like v
+testSrc/com/rubypaper/junit/MyVectorTest.java:12:	ShortVariable: Avoid variables with short names like v
+testSrc/com/rubypaper/junit/MyVectorTest.java:15:	CommentRequired: Public method and constructor comments are required
+testSrc/com/rubypaper/junit/MyVectorTest.java:15:	CommentRequired: Public method and constructor comments are required
+testSrc/com/rubypaper/junit/MyVectorTest.java:15:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+testSrc/com/rubypaper/junit/MyVectorTest.java:15:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+testSrc/com/rubypaper/junit/MyVectorTest.java:16:	SystemPrintln: System.out.println is used
+testSrc/com/rubypaper/junit/MyVectorTest.java:16:	SystemPrintln: System.out.println is used
+testSrc/com/rubypaper/junit/MyVectorTest.java:20:	CommentRequired: Public method and constructor comments are required
+testSrc/com/rubypaper/junit/MyVectorTest.java:20:	CommentRequired: Public method and constructor comments are required
+testSrc/com/rubypaper/junit/MyVectorTest.java:20:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+testSrc/com/rubypaper/junit/MyVectorTest.java:20:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+testSrc/com/rubypaper/junit/MyVectorTest.java:21:	SystemPrintln: System.out.println is used
+testSrc/com/rubypaper/junit/MyVectorTest.java:21:	SystemPrintln: System.out.println is used
+testSrc/com/rubypaper/junit/MyVectorTest.java:25:	CommentRequired: Public method and constructor comments are required
+testSrc/com/rubypaper/junit/MyVectorTest.java:25:	CommentRequired: Public method and constructor comments are required
+testSrc/com/rubypaper/junit/MyVectorTest.java:27:	SystemPrintln: System.out.println is used
+testSrc/com/rubypaper/junit/MyVectorTest.java:27:	SystemPrintln: System.out.println is used
+testSrc/com/rubypaper/junit/MyVectorTest.java:31:	CommentRequired: Public method and constructor comments are required
+testSrc/com/rubypaper/junit/MyVectorTest.java:31:	CommentRequired: Public method and constructor comments are required
+testSrc/com/rubypaper/junit/MyVectorTest.java:32:	SystemPrintln: System.out.println is used
+testSrc/com/rubypaper/junit/MyVectorTest.java:32:	SystemPrintln: System.out.println is used
+testSrc/com/rubypaper/junit/MyVectorTest.java:36:	CommentRequired: Public method and constructor comments are required
+testSrc/com/rubypaper/junit/MyVectorTest.java:36:	CommentRequired: Public method and constructor comments are required
+testSrc/com/rubypaper/junit/MyVectorTest.java:36:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+testSrc/com/rubypaper/junit/MyVectorTest.java:36:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+testSrc/com/rubypaper/junit/MyVectorTest.java:37:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+testSrc/com/rubypaper/junit/MyVectorTest.java:37:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+testSrc/com/rubypaper/junit/MyVectorTest.java:38:	AvoidDuplicateLiterals: The String literal "abc" appears 5 times in this file; the first occurrence is on line 38
+testSrc/com/rubypaper/junit/MyVectorTest.java:38:	AvoidDuplicateLiterals: The String literal "abc" appears 5 times in this file; the first occurrence is on line 38
+testSrc/com/rubypaper/junit/MyVectorTest.java:39:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+testSrc/com/rubypaper/junit/MyVectorTest.java:39:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+testSrc/com/rubypaper/junit/MyVectorTest.java:39:	SimplifyBooleanAssertion: assertTrue(!expr) can be replaced by assertFalse(expr)
+testSrc/com/rubypaper/junit/MyVectorTest.java:39:	SimplifyBooleanAssertion: assertTrue(!expr) can be replaced by assertFalse(expr)
+testSrc/com/rubypaper/junit/MyVectorTest.java:40:	SystemPrintln: System.out.println is used
+testSrc/com/rubypaper/junit/MyVectorTest.java:40:	SystemPrintln: System.out.println is used
+testSrc/com/rubypaper/junit/MyVectorTest.java:44:	CommentRequired: Public method and constructor comments are required
+testSrc/com/rubypaper/junit/MyVectorTest.java:44:	CommentRequired: Public method and constructor comments are required
+testSrc/com/rubypaper/junit/MyVectorTest.java:45:	LocalVariableCouldBeFinal: Local variable 'str1' could be declared final
+testSrc/com/rubypaper/junit/MyVectorTest.java:45:	LocalVariableCouldBeFinal: Local variable 'str1' could be declared final
+testSrc/com/rubypaper/junit/MyVectorTest.java:45:	StringInstantiation: Avoid instantiating String objects; this is usually unnecessary.
+testSrc/com/rubypaper/junit/MyVectorTest.java:45:	StringInstantiation: Avoid instantiating String objects; this is usually unnecessary.
+testSrc/com/rubypaper/junit/MyVectorTest.java:47:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+testSrc/com/rubypaper/junit/MyVectorTest.java:47:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+testSrc/com/rubypaper/junit/MyVectorTest.java:48:	SystemPrintln: System.out.println is used
+testSrc/com/rubypaper/junit/MyVectorTest.java:48:	SystemPrintln: System.out.println is used
+testSrc/com/rubypaper/junit/MyVectorTest.java:52:	CommentRequired: Public method and constructor comments are required
+testSrc/com/rubypaper/junit/MyVectorTest.java:52:	CommentRequired: Public method and constructor comments are required
+testSrc/com/rubypaper/junit/MyVectorTest.java:53:	LocalVariableCouldBeFinal: Local variable 'str1' could be declared final
+testSrc/com/rubypaper/junit/MyVectorTest.java:53:	LocalVariableCouldBeFinal: Local variable 'str1' could be declared final
+testSrc/com/rubypaper/junit/MyVectorTest.java:53:	StringInstantiation: Avoid instantiating String objects; this is usually unnecessary.
+testSrc/com/rubypaper/junit/MyVectorTest.java:53:	StringInstantiation: Avoid instantiating String objects; this is usually unnecessary.
+testSrc/com/rubypaper/junit/MyVectorTest.java:54:	LocalVariableCouldBeFinal: Local variable 'str2' could be declared final
+testSrc/com/rubypaper/junit/MyVectorTest.java:54:	LocalVariableCouldBeFinal: Local variable 'str2' could be declared final
+testSrc/com/rubypaper/junit/MyVectorTest.java:54:	StringInstantiation: Avoid instantiating String objects; this is usually unnecessary.
+testSrc/com/rubypaper/junit/MyVectorTest.java:54:	StringInstantiation: Avoid instantiating String objects; this is usually unnecessary.
+testSrc/com/rubypaper/junit/MyVectorTest.java:57:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+testSrc/com/rubypaper/junit/MyVectorTest.java:57:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+testSrc/com/rubypaper/junit/MyVectorTest.java:58:	SystemPrintln: System.out.println is used
+testSrc/com/rubypaper/junit/MyVectorTest.java:58:	SystemPrintln: System.out.println is used
+testSrc/com/rubypaper/junit/MyVectorTest.java:62:	CommentRequired: Public method and constructor comments are required
+testSrc/com/rubypaper/junit/MyVectorTest.java:62:	CommentRequired: Public method and constructor comments are required
+testSrc/com/rubypaper/junit/MyVectorTest.java:62:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+testSrc/com/rubypaper/junit/MyVectorTest.java:62:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+testSrc/com/rubypaper/junit/MyVectorTest.java:63:	LocalVariableCouldBeFinal: Local variable 'str1' could be declared final
+testSrc/com/rubypaper/junit/MyVectorTest.java:63:	LocalVariableCouldBeFinal: Local variable 'str1' could be declared final
+testSrc/com/rubypaper/junit/MyVectorTest.java:63:	StringInstantiation: Avoid instantiating String objects; this is usually unnecessary.
+testSrc/com/rubypaper/junit/MyVectorTest.java:63:	StringInstantiation: Avoid instantiating String objects; this is usually unnecessary.
+testSrc/com/rubypaper/junit/MyVectorTest.java:64:	LocalVariableCouldBeFinal: Local variable 'str2' could be declared final
+testSrc/com/rubypaper/junit/MyVectorTest.java:64:	LocalVariableCouldBeFinal: Local variable 'str2' could be declared final
+testSrc/com/rubypaper/junit/MyVectorTest.java:64:	StringInstantiation: Avoid instantiating String objects; this is usually unnecessary.
+testSrc/com/rubypaper/junit/MyVectorTest.java:64:	StringInstantiation: Avoid instantiating String objects; this is usually unnecessary.
+testSrc/com/rubypaper/junit/MyVectorTest.java:67:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+testSrc/com/rubypaper/junit/MyVectorTest.java:67:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+testSrc/com/rubypaper/junit/MyVectorTest.java:68:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+testSrc/com/rubypaper/junit/MyVectorTest.java:68:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+testSrc/com/rubypaper/junit/MyVectorTest.java:69:	SystemPrintln: System.out.println is used
+testSrc/com/rubypaper/junit/MyVectorTest.java:69:	SystemPrintln: System.out.println is used
+testSrc/com/rubypaper/junit/MyVectorTest.java:73:	CommentRequired: Public method and constructor comments are required
+testSrc/com/rubypaper/junit/MyVectorTest.java:73:	CommentRequired: Public method and constructor comments are required
+testSrc/com/rubypaper/junit/MyVectorTest.java:75:	IntegerInstantiation: Avoid instantiating Integer objects. Call Integer.valueOf() instead.
+testSrc/com/rubypaper/junit/MyVectorTest.java:75:	IntegerInstantiation: Avoid instantiating Integer objects. Call Integer.valueOf() instead.
+testSrc/com/rubypaper/junit/MyVectorTest.java:76:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+testSrc/com/rubypaper/junit/MyVectorTest.java:76:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+testSrc/com/rubypaper/junit/MyVectorTest.java:77:	SystemPrintln: System.out.println is used
+testSrc/com/rubypaper/junit/MyVectorTest.java:77:	SystemPrintln: System.out.println is used
